@@ -84,6 +84,7 @@
 # Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocunha123/)
+[![](https://img.shields.io/badge/-gmail-red?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=mailto:leandrocunha@unipam.edu.br)](mailto:leandrocunha@unipam.edu.br)
 
 ---
 
