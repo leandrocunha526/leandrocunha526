@@ -100,4 +100,4 @@
 
 # Markdown Badges
 
-[Informations about Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [Informations about Markdown Badges](https://github.com/Ileriayo/markdown-badges)
