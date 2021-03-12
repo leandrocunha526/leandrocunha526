@@ -16,3 +16,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&theme=dracula"
     />
 </p>
+
+---
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocunha123/)
+![](https://komarev.com/ghpvc/?username=leandrocunha526&style=flat-square)
