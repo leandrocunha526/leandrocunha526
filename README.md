@@ -14,7 +14,7 @@
     />
     <img
       align="center"
-      height="250"
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&theme=dracula"
     />
 </p>
