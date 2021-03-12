@@ -92,7 +92,11 @@
 
 ---
 
+# Page views
+
 ![](https://komarev.com/ghpvc/?username=leandrocunha526&style=flat-square)
+
+---
 
 # Markdown Badges
 
