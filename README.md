@@ -9,7 +9,7 @@
 <p align="center">
     <img
       align="center"
-      height="350"
+      height="250"
       src="https://github-readme-stats.vercel.app/api?username=leandrocunha526&show_icons=true&theme=dracula"
     />
     <img
