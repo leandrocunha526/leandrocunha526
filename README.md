@@ -110,7 +110,7 @@
 
 # Repositories
 
-![https://gitlab.com/leandrocunha123](assets/gitlab.svg)
+[![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/leandrocunha123)
 
 ---
 
