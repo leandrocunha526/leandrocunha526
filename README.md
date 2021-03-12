@@ -1,7 +1,8 @@
-# Hi, I am Leandro Cunha
+# Hi, I am Leandro Cunha :wave:
 
-- I’m passionate about technology and innovation.
-- I am always looking to learn new technologies.
+- 😍 I’m passionate about technology and innovation.
+- 🔧 I am always looking to learn new technologies.
+- 💬 Ask me about anything, I am happy to help.
 
 ---
 
