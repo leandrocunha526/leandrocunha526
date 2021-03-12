@@ -9,12 +9,10 @@
 <p align="center">
     <img
       align="center"
-      height="250"
       src="https://github-readme-stats.vercel.app/api?username=leandrocunha526&show_icons=true&theme=dracula"
     />
     <img
       align="center"
-      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&theme=dracula"
     />
 </p>
@@ -23,7 +21,7 @@
 
 # Softwares
 
-<img height="25" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img height="25" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img height="25" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img height="25" alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
 
 ---
 
@@ -43,6 +41,10 @@
 
 <img height="25" alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img height="25" alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/><img height="25" alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/><img height="25" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/><img height="25" alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
+# Mobile Development
+
+<img height="25" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/><img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 ---
 
 # Education
@@ -51,9 +53,9 @@
 
 ---
 
-# Others
+# Services
 
-<img height="25" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img height="25" alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/><img height="25" alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" ><img height="25" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img height="25" alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
 
 ---
 
@@ -89,3 +91,7 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=leandrocunha526&style=flat-square)
+
+# Markdown Badges
+
+[Informations about Markdown Badges](https://github.com/Ileriayo/markdown-badges)
