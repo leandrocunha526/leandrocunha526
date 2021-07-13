@@ -13,7 +13,7 @@
     />
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&theme=dracula"
     />
 </p>
 
