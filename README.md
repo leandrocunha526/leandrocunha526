@@ -43,12 +43,6 @@
 
 ---
 
-# Operations Systems
-
-<img height="25" alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /><img height="25" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
----
-
 # Repositories
 
 [![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/leandrocunha123)
