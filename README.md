@@ -5,11 +5,13 @@
 - 💬 Ask me about anything, I am happy to help.
 
 ---
+
  <div>
   <a href="https://github.com/leandrocunha526">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrocunha526&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
 ---
 
 # Softwares
