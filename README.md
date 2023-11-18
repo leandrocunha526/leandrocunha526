@@ -38,10 +38,6 @@
 
 ## Other repositories
 
-- [Salsa](https://wiki.debian.org/Salsa) ([Debian](https://debian.org))
-
-<a href="https://salsa.debian.org/leandrocunha" title="Click to access repository on Debian Salsa"><img src="https://jonathancarter.org/files/images/gitlab2deb.png" height="150" width="300" alt="Debian Salsa"></a>
-
 - [GitLab](https://about.gitlab.com/) (studies and backups)
 
 <a href="https://gitlab.com/leandrocunha123" title="Click to access repository on GitLab"><img src="https://about.gitlab.com/images/press/logo/wm.svg" height="150" width="300" alt="GitLab"></a>
