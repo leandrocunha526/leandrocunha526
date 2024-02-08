@@ -20,6 +20,8 @@
 - Computer Science with Python by the USP Free Software Competence Center (2018).
 - I participate in [GitHub Global Campus](https://education.github.com/globalcampus/student), [GitHub Education](https://education.github.com/students) and have a [Google Developer profile](https://developers.google.com/profile/u/leandrocunha526).
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/leandrocunha)
+
 ---
 
  <div>
