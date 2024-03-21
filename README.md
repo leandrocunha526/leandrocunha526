@@ -44,6 +44,6 @@
 
 <a href="https://gitlab.com/leandrocunha123" title="Click to access repository on GitLab"><img src="https://about.gitlab.com/images/press/logo/wm.svg" height="150" width="300" alt="GitLab"></a>
 
--  [Debian Salsa](https://salsa.debian.org/leandrocunha) (repository for contributions to the @Debian project and focused on free software)
+-  [Debian Salsa](https://salsa.debian.org/leandrocunha) (repository for contributions to the [@Debian](https://github.com/Debian) project and focused on free software)
 
 <a href="https://salsa.debian.org/leandrocunha" title="Click to access repository on Salsa"><img src="https://jonathancarter.org/files/images/gitlab2deb.png" height="150" width="300" alt="Salsa"></a>
