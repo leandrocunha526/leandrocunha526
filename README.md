@@ -108,6 +108,12 @@ _There are several technologies, these are the ones I chose to focus on and stud
 
 ---
 
+## Extra
+
+[See about commits pattern](https://github.com/leandrocunha526/padroes-de-commits/tree/main)
+
+---
+
 ## Contact
 
 [Leandro Cunha](mailto:leandrocunha016@gmail.com?subject=Contact)
