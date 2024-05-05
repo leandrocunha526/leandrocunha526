@@ -98,10 +98,6 @@ _There are several technologies, these are the ones I chose to focus on and stud
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-square&logo=gitlab&logoColor=orange)](https://gitlab.com/leandrocunha123)
 
-- [Debian Salsa](https://salsa.debian.org/leandrocunha) (repository for contributions to the [@Debian](https://github.com/Debian) project and focused on free software)
-
-<a href="https://salsa.debian.org/leandrocunha" title="Click to access repository on Salsa"><img src="https://jonathancarter.org/files/images/gitlab2deb.png" height="100" width="150" alt="Salsa"></a>
-
 - [Codeberg](https://codeberg.org/leandrocunha) (repository focused on free software)
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-4793cc?style=flat-square&logo=Codeberg&logoColor=white)](https://codeberg.org/leandrocunha)
