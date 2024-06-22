@@ -58,7 +58,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-### Programing languages
+### Programming languages
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
