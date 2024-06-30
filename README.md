@@ -12,7 +12,7 @@
 
 ## About me
 
-- Developer with knowledge of studies, courses, projects and college curriculum: JavaScript, TypeScript, C#, Kotlin, Java, Python, PHP, Go, React, .NET Framework, ASP.NET Core, Vue.js, Adonis, NestJS, NextJS, Nuxt.js, Fiber, Express.js, Flask, Dart, Django, Firebase, SASS, Tailwind CSS, Vite, GraphCMS, GraphQL, Angular, Ruby on Rails, Ruby and SCSS. Has been developing personal projects since 2010, starting as a Webmaster, studying and developing these projects.
+- Developer with knowledge of courses, projects and college curriculum: JavaScript, TypeScript, C#, Kotlin, Java, Python, PHP, Go, React, .NET Framework, ASP.NET Core, Vue.js, Adonis, NestJS, NextJS, Nuxt.js, Fiber, Express.js, Flask, Dart, Django, Firebase, SASS, Tailwind CSS, Vite, GraphCMS, GraphQL, Angular, Ruby on Rails, Ruby and SCSS. Has been developing personal projects since 2010, starting as a Webmaster, studying and developing these projects.
 - DevOps and agile methodologies.
 - Shell Script.
 - Bachelor in Information Systems from the University Center of Patos de Minas (Minas Gerais/MG) (UNIPAM).
