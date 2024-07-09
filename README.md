@@ -14,8 +14,8 @@
 
 Developing projects since 2010, constantly updating and learning with the aim of adding value to products and services.
 Knowledge of DevOps and agile methodologies.  
-Languages: JavaScript, TypeScript, PHP, Python, C# and Java.  
-Mobile: React Native.  
+Languages: Dart, JavaScript, TypeScript, PHP, Python, C# and Java.  
+Mobile: React Native and Flutter.  
 Front-end: React/Next, Redux, Vue.js, Vuex and Angular.  
 Back-end: ASP.NET Core, Django REST Framework, Express.js and Nest.  
 Databases: Comprehensive experience in relational and non-relational database.  
