@@ -12,7 +12,7 @@
 
 ## About me
 
-Developing projects since 2010, constantly updating and learning with the aim of adding value to products and services.
+Developing projects since 2010, constantly updating and learning with the aim of adding value to products and services.  
 Knowledge of DevOps and agile methodologies.  
 Languages: Dart, JavaScript, TypeScript, PHP, Python, C# and Java.  
 Mobile: React Native and Flutter.  
