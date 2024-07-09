@@ -34,11 +34,13 @@ And a few extra courses.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/VueJS-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+
+## Style
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-squaree&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/VueJS-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Others
 
