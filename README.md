@@ -12,11 +12,18 @@
 
 ## About me
 
-- Developer with knowledge of courses, projects and college curriculum: JavaScript, TypeScript, C#, Kotlin, Java, Python, PHP, Go, React, .NET Framework, ASP.NET Core, Vue.js, Adonis, NestJS, NextJS, Nuxt.js, Fiber, Express.js, Flask, Dart, Django, Firebase, SASS, Tailwind CSS, Vite, GraphCMS, GraphQL, Angular, Ruby on Rails, Ruby and SCSS. Has been developing personal projects since 2010, starting as a Webmaster, studying and developing these projects.
-- DevOps and agile methodologies.
-- Shell Script.
-- Bachelor in Information Systems from the University Center of Patos de Minas (Minas Gerais/MG) (UNIPAM).
-- Computer Science with Python by the USP Free Software Competence Center (2018).
+Developing projects since 2010, constantly updating and learning with the aim of adding value to products and services.
+Knowledge of DevOps and agile methodologies.
+Languages: JavaScript, TypeScript, PHP, Python, C# and Java.
+Mobile: React Native.
+Front-end: React/Next, Redux, Vue.js, Vuex and Angular.
+Back-end: ASP.NET Core, Django REST Framework, Express.js and Nest.
+Databases: Comprehensive experience in relational and non-relational database.
+Extras: Shell Script, Git and Docker/Podman.
+Education:
+Bachelor in Information Systems from the University Center of Patos de Minas (UNIPAM), Minas Gerais/MG.
+Computer Science with Python by the USP Free Software Competence Center (2018).
+And a few extra courses.
 
 ---
 
