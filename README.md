@@ -112,7 +112,7 @@ _There are several technologies, these are the ones I chose to focus on and stud
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-4793cc?style=flat-square&logo=Codeberg&logoColor=white)](https://codeberg.org/leandrocunha)
 
-Contributions to the Debian Project (volunteer work) at [Salsa](https://salsa.debian.org/leandrocunha)
+Contributions to the Debian Project (volunteer work) at [Salsa](https://salsa.debian.org/leandrocunha).
 
 ---
 
