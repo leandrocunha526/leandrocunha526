@@ -6,7 +6,7 @@ With over a decade of experience in software development, I have been dedicated 
 
 I have a strong foundation in DevOps practices and agile methodologies, which I integrate into my work to optimize development processes and project delivery.  
 
-Currently maintainer of Docker Desktop for [@archlinux AUR](https://github.com/archlinux) and [@debian](https://github.com/debian) contributor in several distribution teams such as Ruby and PostgreSQL.  
+Currently maintainer of Docker Desktop for [Arch Linux](https://github.com/archlinux) AUR and [Debian](https://github.com/debian) contributor in several distribution teams such as Ruby and PostgreSQL.  
 
 ## Technical Skills
 
