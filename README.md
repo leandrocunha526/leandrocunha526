@@ -6,6 +6,8 @@ With over a decade of experience in software development, I have been dedicated 
 
 I have a strong foundation in DevOps practices and agile methodologies, which I integrate into my work to optimize development processes and project delivery.  
 
+Currently maintainer of Docker Desktop for @ArchLinux AUR and @Debian contributor in several distribution teams such as Ruby and PostgreSQL.  
+
 ## Technical Skills
 
 Languages: Dart, JavaScript, TypeScript, PHP, Python, C#, and Java.  
