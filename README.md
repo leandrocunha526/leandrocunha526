@@ -17,12 +17,6 @@ Back-end Development: Experienced in using ASP.NET Core, Django REST Framework, 
 Database Management: Extensive experience with both relational and non-relational databases, ensuring data integrity and optimized performance.  
 Additional Tools: Skilled in Shell Script, Git version control, and containerization using Docker/Podman.  
 
-## Education
-
-Bachelor’s degree in Information Systems from the University Center of Patos de Minas (UNIPAM), Minas Gerais/MG.  
-Completed a specialized course in Computer Science with Python at the USP Free Software Competence Center in 2018.  
-Numerous other courses that have furthered my expertise.  
-
 ---
 
 ## Extra
