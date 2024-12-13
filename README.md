@@ -56,6 +56,6 @@ Contributions to the Debian Project (volunteer work) at [Salsa](https://salsa.de
 
 [Leandro Cunha](mailto:leandrocunha016@gmail.com?subject=Contact)
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-4793cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocunha123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4793cc?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leandrocunha123)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/leandrocunha)
