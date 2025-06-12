@@ -38,4 +38,6 @@ Currently maintainer of Docker Desktop for [Arch Linux](https://github.com/archl
 
 [Leandro Cunha](mailto:leandrocunhaemail@gmail.com?subject=Contact)
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/leandrocunha123)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/leandrocunha)
