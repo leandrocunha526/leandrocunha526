@@ -10,14 +10,15 @@
 
 ## 🛠 Tech Stack
 
-| Back-end   | Front-end                      | Mobile         | Databases                  |
-| ---------- | ------------------------------ | -------------- | -------------------------- |
-| .NET Core  | React / Next.js                | React Native   | PostgreSQL, MySQL, MariaDB |
-| Django     | Angular / Vue.js               | Flutter (Dart) | MongoDB                    |
-| Express.js | Redux, Vuex                    | Kotlin (basic) |                            |
-| NestJS     | Sass, HTML5, CSS3, TailwindCSS |                |                            |
-| Supabase   | Bootstrap, Material UI         |                |                            |
-| Firebase   | Styled Components              |                |                            |
+| Back-end    | Front-end                      | Mobile         | Databases                  |
+| ----------- | ------------------------------ | -------------- | -------------------------- |
+| .NET Core   | React / Next.js                | React Native   | PostgreSQL, MySQL, MariaDB |
+| Django      | Angular / Vue.js               | Flutter (Dart) | MongoDB                    |
+| Express.js  | Redux, Vuex                    | Kotlin         |                            |
+| NestJS      | Sass, HTML5, CSS3, TailwindCSS |                |                            |
+| Supabase    | Bootstrap, Material UI         |                |                            |
+| Firebase    | Styled Components              |                |                            |
+| Spring Boot |                                |                |                            |
 
 | Other Tools       | DevOps / OS        |
 | ----------------- | ------------------ |
