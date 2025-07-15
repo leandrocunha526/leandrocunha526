@@ -13,9 +13,9 @@
 | Back-end    | Front-end                      | Mobile         | Databases                  |
 | ----------- | ------------------------------ | -------------- | -------------------------- |
 | .NET Core   | React / Next.js                | React Native   | PostgreSQL, MySQL, MariaDB |
-| Django      | Angular / Vue.js               | Flutter (Dart) | MongoDB                    |
-| Express.js  | Redux, Vuex                    | Kotlin         |                            |
-| NestJS      | Sass, HTML5, CSS3, TailwindCSS |                |                            |
+| Django      | Angular / Vue.js               | Flutter (Dart) | Microsoft SQL Server       |
+| Express.js  | Redux, Vuex                    | Kotlin         | NoSQL: MongoDB, Redis,     |
+| NestJS      | Sass, HTML5, CSS3, TailwindCSS |                | Valkey                     |
 | Supabase    | Bootstrap, Material UI         |                |                            |
 | Firebase    | Styled Components              |                |                            |
 | Spring Boot |                                |                |                            |
