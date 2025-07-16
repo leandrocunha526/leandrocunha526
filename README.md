@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 💻 Software Developer since **2010**, passionate about learning and building solutions.
-- 🔥 Contributor to [Arch Linux](https://github.com/archlinux) (Docker Desktop AUR) and [Debian](https://github.com/debian) (Ruby, Python, PostgreSQL teams).
+- 🔥 Contributor to [Arch Linux](https://github.com/archlinux) (AUR and others contributions as a volunteer) and [Debian](https://github.com/debian) (Ruby, Python, PostgreSQL teams and others contributions as a volunteer).
 - 🚀 Knowledge in **DevOps** practices and **Agile methodologies**, focusing on optimizing processes and delivering quality projects.
 
 ---
