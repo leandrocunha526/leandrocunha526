@@ -12,18 +12,18 @@
 
 | Back-end    | Front-end                      | Mobile         | Databases                  |
 | ----------- | ------------------------------ | -------------- | -------------------------- |
-| .NET Core   | React / Next.js                | React Native   | PostgreSQL, MySQL, MariaDB |
-| Django      | Angular / Vue.js               | Flutter (Dart) | Microsoft SQL Server       |
-| Express.js  | Redux, Vuex                    | Kotlin         | NoSQL: MongoDB, Redis,     |
-| NestJS      | Sass, HTML5, CSS3, TailwindCSS |                | Valkey                     |
-| Supabase    | Bootstrap, Material UI         |                |                            |
+| .NET Core   | React / Next.js,               | React Native   | PostgreSQL, MySQL, MariaDB |
+| Django      | Angular, Vue.js / Nuxt,        | Flutter (Dart) | Microsoft SQL Server       |
+| Express.js  | Redux, Vuex,                   | Kotlin         | NoSQL, MongoDB, Redis,     |
+| NestJS      | Sass, HTML5, CSS3, TailwindCSS,|                | Valkey                     |
+| Supabase    | Bootstrap, Material UI,        |                |                            |
 | Firebase    | Styled Components              |                |                            |
 | Spring Boot |                                |                |                            |
 
 | Other Tools       | DevOps / OS        |
 | ----------------- | ------------------ |
-| Shell Script, Git | Docker / Podman    |
-| Bash, YAML        | Arch Linux, Debian |
+| Shell Script, Git,| Docker / Podman,   |
+| Bash, YAML,       | Arch Linux, Debian,|
 | Azure, Heroku     | Windows            |
 
 ---
