@@ -22,11 +22,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrocunhaemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocunha123)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/leandrocunha)
-
----
-
-## 📚 Extras
-
-- 🔍 [Commit pattern](https://gist.github.com/leandrocunha526/f5bf86a5429401af5acba7fe811d4e7d)
-
----
