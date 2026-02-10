@@ -16,6 +16,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
+[Please, see: "Public deployment paused #3851" clicking here](https://github.com/anuraghazra/github-readme-stats/issues/3851#issuecomment-3738281321)
+
+NOTE: I am waiting for the statistics to be returned as per the link above.
+
 ---
 
 ## 🔗 Contact
