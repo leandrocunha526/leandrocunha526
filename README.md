@@ -11,11 +11,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrocunha526&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=leandrocunha526&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 
 ---
