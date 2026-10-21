@@ -9,6 +9,16 @@
 
 ---
 
+## 📊 Statistic
+
+<div style="display: "flex" ">
+<a href="https://github.com/leandrocunha526">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrocunha526&show_icons=true&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocunha526&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
 ## 🔗 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrocunhaemail@gmail.com)
